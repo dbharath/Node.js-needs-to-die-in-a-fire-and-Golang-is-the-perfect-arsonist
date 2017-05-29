@@ -27,4 +27,4 @@ I've done *many* benchmarks of servers, but this time I wanted to test things ov
 
 Remember, these results are over an *actual ethernet cable*. Whatever software used, it and only it was responsible for this major performance spectra. We are talking about 500x - 1000x the networking performance depending on software used.
 
-Now, µWS is more of a theoretical limit rather than an actual server you can use. The fact that golang performs only 2x slower than this limit is incredible given that golang is actually starting to become widespread within the back-end industry. Even though I'm a C++:er at heart, I cannot stop being incredibly pleased with this evolution. If anything, golang is a major leap in the right direction.
+Now, µWS is more of a theoretical limit rather than an actual server you can use. The fact that golang performs at half this limit is incredible given that golang is actually starting to become widespread within the back-end industry. Even though I'm a C++:er at heart, I cannot stop being incredibly pleased with this evolution. If anything, golang is a major leap in the right direction.
